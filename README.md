@@ -5,4 +5,4 @@ _Select the tv show, then Select Season and finally pick up the episode and you 
 
 _Downloading options :Through wget command utility or idm_
 
-_Working on adding more sources to downod from_
+_Working on adding more sources to download from_
